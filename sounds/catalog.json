@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "updated": "2026-10-01",
+  "sounds": [
+    {
+      "id": "remote.canon",
+      "ja": "カノン（パッヘルベル）",
+      "en": "Canon (Pachelbel)",
+      "intensity": "gentle",
+      "access": "free",
+      "files": {
+        "normal": {
+          "path": "v1/canon.caf",
+          "sha256": "83c06662f4eec3f8d864d969faf74b256303ea73749246cd20be721e735a208f",
+          "bytes": 566388
+        },
+        "crescendo": {
+          "path": "v1/canon_crescendo.caf",
+          "sha256": "a09da3b7ee651990be8066a8f5178351d2ca14dc677c0f8a5f08a1351edd4af4",
+          "bytes": 566388
+        }
+      }
+    },
+    {
+      "id": "remote.orin",
+      "ja": "おりん",
+      "en": "Singing Bowl",
+      "intensity": "gentle",
+      "access": "claim",
+      "claimUntil": "2026-10-31T23:59:59+09:00",
+      "files": {
+        "normal": {
+          "path": "v1/orin.caf",
+          "sha256": "9d12b6714e4070c773c3cbf29d960225fa7115c46c59f9c60a4113a667611fb2",
+          "bytes": 566388
+        },
+        "crescendo": {
+          "path": "v1/orin_crescendo.caf",
+          "sha256": "1d11a6f6688a23740df926f8e81b9a12e369df9965e44871928a7f0abe8b2126",
+          "bytes": 566388
+        }
+      }
+    },
+    {
+      "id": "remote.menuet",
+      "ja": "メヌエット（バッハ）",
+      "en": "Minuet in G (Bach)",
+      "intensity": "gentle",
+      "access": "premium",
+      "files": {
+        "normal": {
+          "path": "v1/menuet.caf",
+          "sha256": "9cb50475ffb9f41fd0a1724b8ae1098d698f4c36d3a49b5adcd9c122a44f1677",
+          "bytes": 566388
+        },
+        "crescendo": {
+          "path": "v1/menuet_crescendo.caf",
+          "sha256": "6d6a39fdc1c192dbdc46c07b40a2bb864f595188bca6033b847a41641ef54e37",
+          "bytes": 566388
+        }
+      }
+    },
+    {
+      "id": "remote.mokkin",
+      "ja": "木琴のそよかぜ",
+      "en": "Marimba Breeze",
+      "intensity": "gentle",
+      "access": "premium",
+      "files": {
+        "normal": {
+          "path": "v1/mokkin.caf",
+          "sha256": "4ad9eac61057c3da3281fc34171559e7de03e5b508528d18a45be678f1a17b4b",
+          "bytes": 566388
+        },
+        "crescendo": {
+          "path": "v1/mokkin_crescendo.caf",
+          "sha256": "78b2a8fd5cfe7b372b942782373413d2ecb39e0628f391a365170b69643121e9",
+          "bytes": 566388
+        }
+      }
+    }
+  ]
+}
