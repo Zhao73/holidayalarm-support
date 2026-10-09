@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-01",
+  "updated": "2026-10-10",
   "sounds": [
     {
       "id": "remote.canon",
@@ -76,6 +76,63 @@
           "path": "v1/mokkin_crescendo.caf",
           "sha256": "78b2a8fd5cfe7b372b942782373413d2ecb39e0628f391a365170b69643121e9",
           "bytes": 566388
+        }
+      }
+    },
+    {
+      "id": "remote.elise",
+      "ja": "エリーゼのために（ベートーヴェン）",
+      "en": "Für Elise (Beethoven)",
+      "intensity": "gentle",
+      "access": "free",
+      "files": {
+        "normal": {
+          "path": "v1/elise.caf",
+          "sha256": "fc4f0e090ba9389d9fefa94e398535180750ff6eb76ca9d6ad728eb19f919f78",
+          "bytes": 2120896
+        },
+        "crescendo": {
+          "path": "v1/elise_crescendo.caf",
+          "sha256": "f585526038cdedfcfde59a11d8ea884b0378bd181d7280911e208e0a99e63153",
+          "bytes": 2120896
+        }
+      }
+    },
+    {
+      "id": "remote.kangeki",
+      "ja": "歓喜の歌（ベートーヴェン）",
+      "en": "Ode to Joy (Beethoven)",
+      "intensity": "gentle",
+      "access": "premium",
+      "files": {
+        "normal": {
+          "path": "v1/kangeki.caf",
+          "sha256": "f4f2183a950df3bf02c20bde1fc2832244978d61e52ef431a9f5ef54b8690b96",
+          "bytes": 2120896
+        },
+        "crescendo": {
+          "path": "v1/kangeki_crescendo.caf",
+          "sha256": "14a5b9174c55364d1914390dd58f95c442172d9d9e9fc32b3b0330f57c37a4b2",
+          "bytes": 2120896
+        }
+      }
+    },
+    {
+      "id": "remote.komorebi",
+      "ja": "木漏れ日（カリンバ）",
+      "en": "Komorebi (Kalimba)",
+      "intensity": "gentle",
+      "access": "premium",
+      "files": {
+        "normal": {
+          "path": "v1/komorebi.caf",
+          "sha256": "10fe8b08bde96c74ccebc7ecf10a94893a962be2352e3cccdf8bca9d0264dffe",
+          "bytes": 2120896
+        },
+        "crescendo": {
+          "path": "v1/komorebi_crescendo.caf",
+          "sha256": "76d9e512e0cba1edd7c96e7cd25dd6cd88af697a0e818c994ab2ca86da5e6306",
+          "bytes": 2120896
         }
       }
     }
