@@ -34,11 +34,12 @@
     <ul>
       <li>アカウント登録はありません。</li>
       <li>アラーム、休みの日、音などの設定は、iPhone の中だけに保存します。</li>
-      <li>通信するのは、内閣府が公開する祝日データ（CSV）と、このサイトで配布している追加サウンドの一覧・音声ファイルを取得するとき、そして天気をオンにしたときの Apple の天気サービスへの問い合わせだけです。どちらの通信にも、あなたの設定や個人情報は含まれません。配信元（内閣府のサーバー、GitHub Pages）は、一般的なウェブアクセスと同様にアクセス記録を残すことがあります。</li>
+      <li>通信するのは、内閣府が公開する祝日データ（CSV）と、このサイトで配布している追加サウンドの一覧・音声ファイルを取得するとき、天気をオンにしたときの Apple の天気サービスへの問い合わせ、そして下の「音の人気集計」だけです。どの通信にも、あなたの個人情報は含まれません。配信元（内閣府のサーバー、GitHub Pages）は、一般的なウェブアクセスと同様にアクセス記録を残すことがあります。</li>
       <li>通知は、iPhone の中で予約するお知らせ（予約が切れる前・休みの前の晩）だけで、外部には送りません。</li>
       <li>天気を表示する機能をオンにしたときだけ、位置情報（おおよそ・約1km）を使います。位置は Apple の天気サービス（WeatherKit）への問い合わせと、地名の表示にだけ使い、開発者が受け取ることはありません。iPhone の中には、約1km単位に丸めた位置と、受け取った予報だけを保存します。天気をオフにすると予報は消えます。</li>
       <li>プレミアムの購入は Apple が処理します。開発者が支払い情報を受け取ることはありません。</li>
-      <li>広告、トラッキング、解析ツールは使っていません。</li>
+      <li>音の人気集計（バージョン 2.3 から）：どの音がよく使われているかを知り、おすすめの音を選ぶために、「音の名前」「試聴した・アラームに設定した・その日オンのアラームで使っている、のどれか」「アプリのバージョン」だけを、開発者のサーバー（Cloudflare）に送ります。端末やあなたを特定できる情報（端末 ID、アカウント、アラームの時刻、位置など）は送らず、サーバーは日ごと・音ごとの回数だけを保存し、IP アドレスは記録しません。設定の「音の人気集計に協力する」をオフにすると、送信をやめ、まだ送っていない分も削除します。</li>
+      <li>広告、トラッキング、外部の解析ツールは使っていません。</li>
     </ul>
 
     <h2>アクセシビリティ</h2>
@@ -58,7 +59,7 @@
 
     <div lang="en" id="en">
       <h2>Privacy Policy (English)</h2>
-      <p>Holiday Alarm does not collect any personal data. There is no account. All settings stay on your iPhone. The app only connects to the internet to download the public holiday CSV from the Cabinet Office of Japan and the list of additional alarm sounds and their audio files from this website (GitHub Pages); neither request contains your settings or personal information. If you turn on weather, your approximate location (about 1 km) is used only to ask Apple’s weather service (WeatherKit) for the forecast and to show a place name; the developer never receives it. Reminders are local notifications only. Purchases are processed by Apple. No ads, tracking or analytics.</p>
+      <p>Holiday Alarm does not collect any personal data. There is no account. All settings stay on your iPhone. The app only connects to the internet to download the public holiday CSV from the Cabinet Office of Japan and the list of additional alarm sounds and their audio files from this website (GitHub Pages), and to send the anonymous sound stats described below; none of these requests contain your personal information. If you turn on weather, your approximate location (about 1 km) is used only to ask Apple’s weather service (WeatherKit) for the forecast and to show a place name; the developer never receives it. Reminders are local notifications only. Purchases are processed by Apple. Sound popularity stats (from version 2.3): to learn which sounds are popular and choose recommended sounds, the app sends only the sound name, whether it was previewed, set on an alarm or used by an alarm that day, and the app version to the developer’s server (Cloudflare). Nothing that identifies you or your device (device ID, account, alarm times, location) is sent; the server stores only daily counts per sound and does not record IP addresses. Turn off “Share Anonymous Sound Stats” in Settings to stop sending and delete anything not yet sent. No ads, tracking or third-party analytics.</p>
       <h2>Accessibility</h2>
       <p>Common tasks are designed and tested with VoiceOver, Larger Text, Dark Interface, Sufficient Contrast, Differentiate Without Color Alone and Reduced Motion.</p>
       <h2>Support</h2>

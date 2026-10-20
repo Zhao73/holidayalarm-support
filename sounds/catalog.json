@@ -13,6 +13,7 @@
         "ja": "NEW",
         "en": "NEW"
       },
+      "featured": true,
       "files": {
         "normal": {
           "path": "v1/yoake.caf",
@@ -37,6 +38,7 @@
         "ja": "NEW",
         "en": "NEW"
       },
+      "featured": true,
       "files": {
         "normal": {
           "path": "v1/kotori.caf",
@@ -85,6 +87,7 @@
         "ja": "NEW",
         "en": "NEW"
       },
+      "featured": true,
       "files": {
         "normal": {
           "path": "v1/acoustic.caf",
@@ -109,6 +112,7 @@
         "ja": "NEW",
         "en": "NEW"
       },
+      "featured": true,
       "files": {
         "normal": {
           "path": "v1/citypop.caf",
@@ -133,6 +137,7 @@
         "ja": "NEW",
         "en": "NEW"
       },
+      "featured": true,
       "files": {
         "normal": {
           "path": "v1/bellmarch.caf",
@@ -157,6 +162,7 @@
         "ja": "NEW",
         "en": "NEW"
       },
+      "featured": true,
       "files": {
         "normal": {
           "path": "v1/8bit.caf",
@@ -181,6 +187,7 @@
         "ja": "NEW",
         "en": "NEW"
       },
+      "featured": true,
       "files": {
         "normal": {
           "path": "v1/koto.caf",
@@ -200,6 +207,7 @@
       "en": "Canon (Pachelbel)",
       "intensity": "gentle",
       "access": "free",
+      "featured": true,
       "files": {
         "normal": {
           "path": "v1/canon.caf",
