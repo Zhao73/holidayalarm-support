@@ -16,13 +16,13 @@
       "files": {
         "normal": {
           "path": "v1/yoake.caf",
-          "sha256": "d5d12f3d523f5819ef9310ef79a95bd2c05c14cc1fbd56ecedc3e4807324219d",
-          "bytes": 566388
+          "sha256": "c04f71aa5e8c5beb16fbd46fe42bd2fcf8e49f8efc3e2004ecd73d1f4aec5c66",
+          "bytes": 2120896
         },
         "crescendo": {
           "path": "v1/yoake_crescendo.caf",
-          "sha256": "11751195fc33661921068318f35f1d1147731115a56b20e407a805fdd9a6f207",
-          "bytes": 566388
+          "sha256": "b7f2c2c10fbd6957396485a615d21f4581f64a6123633c04aa3487f27dec5e32",
+          "bytes": 2120896
         }
       }
     },
@@ -40,13 +40,13 @@
       "files": {
         "normal": {
           "path": "v1/kotori.caf",
-          "sha256": "e0c1d39e63c00642461db3ba341399a9fbfe5161ce328df8e6e4b9ad9a837e07",
-          "bytes": 566388
+          "sha256": "27162eaac6cfa81c400ce2b3e9d0c017655cc55047cad5c9bfaacab492ea662e",
+          "bytes": 2120896
         },
         "crescendo": {
           "path": "v1/kotori_crescendo.caf",
-          "sha256": "34b1ac19718a39ac410b0e11992a4b20277677a037a1fe9f5d63cd1f516205a3",
-          "bytes": 566388
+          "sha256": "36f0972f8a5a853b4eb83ad53a852c72bf42e8199135bc1971eeaa7d5f24c254",
+          "bytes": 2120896
         }
       }
     },
@@ -64,13 +64,13 @@
       "files": {
         "normal": {
           "path": "v1/lofi.caf",
-          "sha256": "2b10169244caef17b91859e14c80e065fb43c3f9991bbb4277c571fae5ebe808",
-          "bytes": 566388
+          "sha256": "434e980c2b17aa94a4bd25547d0b18e261f290251f438155e8123a50f5a2152c",
+          "bytes": 2120896
         },
         "crescendo": {
           "path": "v1/lofi_crescendo.caf",
-          "sha256": "31747fbc9fe1ed9128eb3c25300602a4e993687c34726b599b9dbd80f621bdd8",
-          "bytes": 566388
+          "sha256": "d2f4eaa11eeb0b45acc98240f4da96166c3f175e03f4c5560e9f0f64415c47d1",
+          "bytes": 2120896
         }
       }
     },
@@ -88,13 +88,13 @@
       "files": {
         "normal": {
           "path": "v1/acoustic.caf",
-          "sha256": "d2fff5d96d6f7562dceccc5516f9169110579431a391176e1ed78a1a51b206b5",
-          "bytes": 566388
+          "sha256": "f433e067454e4fab6c6355c037ed8c054015a7fcba0e3fd1ccf3cc73df574842",
+          "bytes": 2120896
         },
         "crescendo": {
           "path": "v1/acoustic_crescendo.caf",
-          "sha256": "d29ebdc67739802eca13c4db8385eea0124bf1e1439cdde8672bf68f2d33d67c",
-          "bytes": 566388
+          "sha256": "b8af2bc1444f9667549934b9414185a3629eeaefa62c7b418b8b9f84a9e6de57",
+          "bytes": 2120896
         }
       }
     },
@@ -112,13 +112,13 @@
       "files": {
         "normal": {
           "path": "v1/citypop.caf",
-          "sha256": "2e224d9e762c7f61bc588346c7ad921367e6d3a8cf915e4cb7a5b5b847b815d1",
-          "bytes": 566388
+          "sha256": "5a910e0808a5ece957e8b3f29fe0aaba496f1c59b59dbb86ad564c4e24af0a20",
+          "bytes": 2120896
         },
         "crescendo": {
           "path": "v1/citypop_crescendo.caf",
-          "sha256": "a2ef07c8d431282a2fe524cf15cbf7dbb41e8ad1316d5b3bd36125c0697396fb",
-          "bytes": 566388
+          "sha256": "d02b969422d82078036073df844aa44ebadcc60d3f934a157d2698e7a68fe963",
+          "bytes": 2120896
         }
       }
     },
@@ -136,13 +136,13 @@
       "files": {
         "normal": {
           "path": "v1/bellmarch.caf",
-          "sha256": "e039e3cdfa7283a8aee2bceae062dc42517986af69eb5863797a4519b2d9e9b8",
-          "bytes": 566388
+          "sha256": "826109334854974b60bc60d3f2fc4ba79b6d8c2503824e3d07e920d0daa93435",
+          "bytes": 2120896
         },
         "crescendo": {
           "path": "v1/bellmarch_crescendo.caf",
-          "sha256": "bddb6cdcbddbd5a9918073a7bde46779b3bfb44e4dc6baae80894e8db9ab2771",
-          "bytes": 566388
+          "sha256": "59b055a87645e33d3910697d102aad4d2b5119d9068222d3abd661b66720e459",
+          "bytes": 2120896
         }
       }
     },
@@ -160,13 +160,13 @@
       "files": {
         "normal": {
           "path": "v1/8bit.caf",
-          "sha256": "fdaaee8e422f9ef77fb747ef2b0a1ab1a021564102de8a0b331ff34e6b58bda6",
-          "bytes": 566388
+          "sha256": "5c74c5fe956903d800df30a5c6e1168315aa6fddf89a23d5d1250d1142091fc6",
+          "bytes": 2120896
         },
         "crescendo": {
           "path": "v1/8bit_crescendo.caf",
-          "sha256": "60910abffd7197e26c425790ea8f219c12254e6ce4d724b5b26de66a13c8c979",
-          "bytes": 566388
+          "sha256": "9a8e70e4969211fe0d31fbe2992a13ef550d7c49162fac6c51b8a2b8c23ce09f",
+          "bytes": 2120896
         }
       }
     },
@@ -184,13 +184,13 @@
       "files": {
         "normal": {
           "path": "v1/koto.caf",
-          "sha256": "7d5ecc80d32fca1f398a603e068f07f89d67d1608cd20281e58d311de62cd6d8",
-          "bytes": 566388
+          "sha256": "d598867ccbe63fa2c728515c2d62e1c9e5c7c746d702f441fa97831dfac17e90",
+          "bytes": 2120896
         },
         "crescendo": {
           "path": "v1/koto_crescendo.caf",
-          "sha256": "5f089861ee9f2273ac75a980c8d1eb8a5a50bf627d0407fed427f48f14e43acd",
-          "bytes": 566388
+          "sha256": "20448d2e7b396fbf6921af41d5061611826bb858fd9a93694ef67811b0e9900c",
+          "bytes": 2120896
         }
       }
     },
