@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated": "2026-10-20",
+  "updated": "2026-11-17",
   "sounds": [
     {
-      "id": "remote.yoake",
-      "ja": "夜明けのオルゴール",
-      "en": "Dawn Music Box",
+      "id": "remote.asapiano",
+      "ja": "朝のピアノ",
+      "en": "Morning Piano",
       "intensity": "gentle",
       "scene": "gentle",
       "access": "premium",
@@ -14,6 +14,126 @@
         "en": "NEW"
       },
       "featured": true,
+      "files": {
+        "normal": {
+          "path": "v1/asapiano.caf",
+          "sha256": "f952bb2b9ceda787fd8fb3d6f7e830252f932919c6457196c0b25eabe6978f19",
+          "bytes": 2120896
+        },
+        "crescendo": {
+          "path": "v1/asapiano_crescendo.caf",
+          "sha256": "30e4ad4bbd70950210ec224f5509b4d8cbc9a6975d9931816a1886af8da8345e",
+          "bytes": 2120896
+        }
+      }
+    },
+    {
+      "id": "remote.asaharp",
+      "ja": "朝露のハープ",
+      "en": "Morning Dew Harp",
+      "intensity": "gentle",
+      "scene": "gentle",
+      "access": "premium",
+      "badge": {
+        "ja": "NEW",
+        "en": "NEW"
+      },
+      "featured": true,
+      "files": {
+        "normal": {
+          "path": "v1/asaharp.caf",
+          "sha256": "8908b7d3e184f8a513af6f2dc942ee77e2163630bcd8c71e0df70e0110bce182",
+          "bytes": 2120896
+        },
+        "crescendo": {
+          "path": "v1/asaharp_crescendo.caf",
+          "sha256": "fa6cef47a31baddc3af6230dff3be71053b4e8cebd8a6ddc3b40eae8f3bce76b",
+          "bytes": 2120896
+        }
+      }
+    },
+    {
+      "id": "remote.bossa",
+      "ja": "カフェのボサノバ",
+      "en": "Café Bossa Nova",
+      "intensity": "balanced",
+      "scene": "balanced",
+      "access": "free",
+      "badge": {
+        "ja": "NEW",
+        "en": "NEW"
+      },
+      "featured": true,
+      "files": {
+        "normal": {
+          "path": "v1/bossa.caf",
+          "sha256": "303491c5ea82f62deafd49746875dff876605639f636e3a1502719ad13250619",
+          "bytes": 2120896
+        },
+        "crescendo": {
+          "path": "v1/bossa_crescendo.caf",
+          "sha256": "4d20317a5329a4209e3ec98285f52dfb064cfc8f12efe2fbd3f4263be4d08689",
+          "bytes": 2120896
+        }
+      }
+    },
+    {
+      "id": "remote.brass",
+      "ja": "しゃきっとブラス",
+      "en": "Wake-Up Brass",
+      "intensity": "strong",
+      "scene": "strong",
+      "access": "premium",
+      "badge": {
+        "ja": "NEW",
+        "en": "NEW"
+      },
+      "featured": true,
+      "files": {
+        "normal": {
+          "path": "v1/brass.caf",
+          "sha256": "5376817e99e5bb6da81ee79f3f671ac388c169b655f9796c84f60827342b0f6e",
+          "bytes": 2120896
+        },
+        "crescendo": {
+          "path": "v1/brass_crescendo.caf",
+          "sha256": "8848a110c87c82d35ac35f2f9fe23073564c242b09e26f10f2e48818e47835ca",
+          "bytes": 2120896
+        }
+      }
+    },
+    {
+      "id": "remote.matsuri",
+      "ja": "祭りの朝",
+      "en": "Festival Morning",
+      "intensity": "strong",
+      "scene": "wa",
+      "access": "premium",
+      "badge": {
+        "ja": "NEW",
+        "en": "NEW"
+      },
+      "featured": true,
+      "files": {
+        "normal": {
+          "path": "v1/matsuri.caf",
+          "sha256": "f887989137bb3610c4e4fa8d6dd18171612ec9880dd89a91be810c0e1f9bafa8",
+          "bytes": 2120896
+        },
+        "crescendo": {
+          "path": "v1/matsuri_crescendo.caf",
+          "sha256": "15290f06da8b4fffd27e68ada1b04e3f39d4266490941fa3248a864f5db49931",
+          "bytes": 2120896
+        }
+      }
+    },
+    {
+      "id": "remote.yoake",
+      "ja": "夜明けのオルゴール",
+      "en": "Dawn Music Box",
+      "intensity": "gentle",
+      "scene": "gentle",
+      "access": "premium",
       "files": {
         "normal": {
           "path": "v1/yoake.caf",
@@ -34,11 +154,6 @@
       "intensity": "gentle",
       "scene": "gentle",
       "access": "free",
-      "badge": {
-        "ja": "NEW",
-        "en": "NEW"
-      },
-      "featured": true,
       "files": {
         "normal": {
           "path": "v1/kotori.caf",
@@ -59,10 +174,6 @@
       "intensity": "gentle",
       "scene": "gentle",
       "access": "premium",
-      "badge": {
-        "ja": "NEW",
-        "en": "NEW"
-      },
       "files": {
         "normal": {
           "path": "v1/lofi.caf",
@@ -83,10 +194,6 @@
       "intensity": "balanced",
       "scene": "balanced",
       "access": "free",
-      "badge": {
-        "ja": "NEW",
-        "en": "NEW"
-      },
       "featured": true,
       "files": {
         "normal": {
@@ -108,10 +215,6 @@
       "intensity": "balanced",
       "scene": "balanced",
       "access": "premium",
-      "badge": {
-        "ja": "NEW",
-        "en": "NEW"
-      },
       "featured": true,
       "files": {
         "normal": {
@@ -133,10 +236,6 @@
       "intensity": "strong",
       "scene": "strong",
       "access": "free",
-      "badge": {
-        "ja": "NEW",
-        "en": "NEW"
-      },
       "featured": true,
       "files": {
         "normal": {
@@ -158,10 +257,6 @@
       "intensity": "strong",
       "scene": "strong",
       "access": "premium",
-      "badge": {
-        "ja": "NEW",
-        "en": "NEW"
-      },
       "featured": true,
       "files": {
         "normal": {
@@ -183,10 +278,6 @@
       "intensity": "gentle",
       "scene": "wa",
       "access": "free",
-      "badge": {
-        "ja": "NEW",
-        "en": "NEW"
-      },
       "featured": true,
       "files": {
         "normal": {
