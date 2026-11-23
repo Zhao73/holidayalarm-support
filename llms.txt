@@ -14,6 +14,11 @@
 - [シフト勤務のアラーム設定例](https://zhao73.github.io/holidayalarm-support/shift.html)
 - [仮眠・昼寝のアラーム](https://zhao73.github.io/holidayalarm-support/nap.html)
 - [2027年の祝日一覧](https://zhao73.github.io/holidayalarm-support/holidays-2027.html)
+- [土日は鳴らさないアラーム](https://zhao73.github.io/holidayalarm-support/weekend-off.html)
+- [有休・連休だけアラームを止める](https://zhao73.github.io/holidayalarm-support/paid-leave.html)
+- [振替休日のアラーム](https://zhao73.github.io/holidayalarm-support/furikae-kyujitsu.html)
+- [出勤日だけ鳴るアラーム](https://zhao73.github.io/holidayalarm-support/workday-only.html)
+- [夜勤・二交代の起床設定](https://zhao73.github.io/holidayalarm-support/night-shift.html)
 - [プライバシーポリシー・サポート](https://zhao73.github.io/holidayalarm-support/privacy.html)
 
 ## 要点

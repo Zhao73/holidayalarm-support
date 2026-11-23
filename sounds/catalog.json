@@ -1,11 +1,61 @@
 {
   "version": 1,
-  "updated": "2026-11-17",
+  "updated": "2026-11-24",
   "sounds": [
     {
-      "id": "remote.asapiano",
-      "ja": "朝のピアノ",
-      "en": "Morning Piano",
+      "id": "remote.hawaii",
+      "ja": "ハワイアンの朝",
+      "en": "Hawaiian Morning",
+      "intensity": "balanced",
+      "scene": "balanced",
+      "access": "premium",
+      "badge": {
+        "ja": "NEW",
+        "en": "NEW"
+      },
+      "featured": true,
+      "files": {
+        "normal": {
+          "path": "v1/hawaii.caf",
+          "sha256": "753680439d8bc8f1747229fc3b0a293e867591535a935ebdf05df89dfadd125b",
+          "bytes": 2120896
+        },
+        "crescendo": {
+          "path": "v1/hawaii_crescendo.caf",
+          "sha256": "1f058f84fcb67937490984a5b1fcda9030a75977a9abdce1af2e9ef3b2b0c8d4",
+          "bytes": 2120896
+        }
+      }
+    },
+    {
+      "id": "remote.celtic",
+      "ja": "ケルトの朝",
+      "en": "Celtic Morning",
+      "intensity": "balanced",
+      "scene": "balanced",
+      "access": "free",
+      "badge": {
+        "ja": "NEW",
+        "en": "NEW"
+      },
+      "featured": true,
+      "files": {
+        "normal": {
+          "path": "v1/celtic.caf",
+          "sha256": "e73de4ab1f4240cbaa363644f4ed7de2bab6eb4205c347093a49e5e9b27e22e1",
+          "bytes": 2120896
+        },
+        "crescendo": {
+          "path": "v1/celtic_crescendo.caf",
+          "sha256": "cdd52c678170959a506c358e87cfcceac75c1dd48ad8ffdd224ff62ec366d17f",
+          "bytes": 2120896
+        }
+      }
+    },
+    {
+      "id": "remote.ambient",
+      "ja": "夜明けのアンビエント",
+      "en": "Dawn Ambient",
       "intensity": "gentle",
       "scene": "gentle",
       "access": "premium",
@@ -14,6 +64,270 @@
         "en": "NEW"
       },
       "featured": true,
+      "files": {
+        "normal": {
+          "path": "v1/ambient.caf",
+          "sha256": "3ed2a018461f3b01713e6b98973bc533af67edd4d7f663f48dc1972e39060f65",
+          "bytes": 2120896
+        },
+        "crescendo": {
+          "path": "v1/ambient_crescendo.caf",
+          "sha256": "4c2ab77a87147926fe012c902dbc3dba0cc0e9ee7e8964736064810f66b9b06e",
+          "bytes": 2120896
+        }
+      }
+    },
+    {
+      "id": "remote.jrock",
+      "ja": "ギターロックの朝",
+      "en": "Guitar Rock Morning",
+      "intensity": "strong",
+      "scene": "strong",
+      "access": "premium",
+      "badge": {
+        "ja": "NEW",
+        "en": "NEW"
+      },
+      "featured": true,
+      "files": {
+        "normal": {
+          "path": "v1/jrock.caf",
+          "sha256": "ae6fe8996ef18719d97731c707848473ab767fb32167b5a0f8c45e570a6ed7ae",
+          "bytes": 2120896
+        },
+        "crescendo": {
+          "path": "v1/jrock_crescendo.caf",
+          "sha256": "4433fb5649721f4883fe66acb9186fde7c496398c9b392c51571f63e1a430fb5",
+          "bytes": 2120896
+        }
+      }
+    },
+    {
+      "id": "remote.jazz",
+      "ja": "朝のジャズトリオ",
+      "en": "Morning Jazz Trio",
+      "intensity": "balanced",
+      "scene": "balanced",
+      "access": "premium",
+      "badge": {
+        "ja": "NEW",
+        "en": "NEW"
+      },
+      "files": {
+        "normal": {
+          "path": "v1/jazz.caf",
+          "sha256": "12e0c43d4a3bf6676ee452d388830a07237448f05bdc38f4eae2d037611f5444",
+          "bytes": 2120896
+        },
+        "crescendo": {
+          "path": "v1/jazz_crescendo.caf",
+          "sha256": "bce5488a05e70f7d59a20becb52473878244f35ecd49a92fd154c1c684612403",
+          "bytes": 2120896
+        }
+      }
+    },
+    {
+      "id": "remote.winter",
+      "ja": "冬の朝のベル",
+      "en": "Winter Morning Bells",
+      "intensity": "balanced",
+      "scene": "balanced",
+      "access": "free",
+      "badge": {
+        "ja": "NEW",
+        "en": "NEW"
+      },
+      "featured": true,
+      "files": {
+        "normal": {
+          "path": "v1/winter.caf",
+          "sha256": "710e51a1c55e728d898421e10e0ca28be93ecc8b7d883b4c196493f568808d37",
+          "bytes": 2120896
+        },
+        "crescendo": {
+          "path": "v1/winter_crescendo.caf",
+          "sha256": "70409a67b454ea2953fff80ec28cc9751695195a9f6f9f267262618ddbbc93b4",
+          "bytes": 2120896
+        }
+      }
+    },
+    {
+      "id": "remote.tropical",
+      "ja": "トロピカルハウスの朝",
+      "en": "Tropical House Morning",
+      "intensity": "balanced",
+      "scene": "balanced",
+      "access": "premium",
+      "badge": {
+        "ja": "NEW",
+        "en": "NEW"
+      },
+      "files": {
+        "normal": {
+          "path": "v1/tropical.caf",
+          "sha256": "e3c366bb5e964222570765a6c8c62c20ae54d8f829a24e20f4b11f2a863da78e",
+          "bytes": 2120896
+        },
+        "crescendo": {
+          "path": "v1/tropical_crescendo.caf",
+          "sha256": "0c9bb3c835ffa3dff21c0b5a11dd27e68562819409469a86b0fafa52b2d0a528",
+          "bytes": 2120896
+        }
+      }
+    },
+    {
+      "id": "remote.funk",
+      "ja": "朝のファンク",
+      "en": "Morning Funk",
+      "intensity": "strong",
+      "scene": "strong",
+      "access": "free",
+      "badge": {
+        "ja": "NEW",
+        "en": "NEW"
+      },
+      "featured": true,
+      "files": {
+        "normal": {
+          "path": "v1/funk.caf",
+          "sha256": "75f78f6bc82d864ed3fa7f2e42d7134ebe66b55c28f5896c77bc97a349e451d8",
+          "bytes": 2120896
+        },
+        "crescendo": {
+          "path": "v1/funk_crescendo.caf",
+          "sha256": "ea20b2eb04952c9a91193f803e76384cd735404d9b823dfa96c92af46512fb90",
+          "bytes": 2120896
+        }
+      }
+    },
+    {
+      "id": "remote.neosoul",
+      "ja": "ネオソウルの朝",
+      "en": "Neo-Soul Morning",
+      "intensity": "balanced",
+      "scene": "balanced",
+      "access": "premium",
+      "badge": {
+        "ja": "NEW",
+        "en": "NEW"
+      },
+      "files": {
+        "normal": {
+          "path": "v1/neosoul.caf",
+          "sha256": "fd6210428d1a091174330c7e2cd048c9817939dc73cb3b7b08309af2e56edde9",
+          "bytes": 2120896
+        },
+        "crescendo": {
+          "path": "v1/neosoul_crescendo.caf",
+          "sha256": "90d3adcd0b5ea2154c7f5fe50a31a0df57f71e7326b16913bc0cffe4cab7fe86",
+          "bytes": 2120896
+        }
+      }
+    },
+    {
+      "id": "remote.sanshin",
+      "ja": "三線の朝",
+      "en": "Sanshin Morning",
+      "intensity": "balanced",
+      "scene": "wa",
+      "access": "free",
+      "badge": {
+        "ja": "NEW",
+        "en": "NEW"
+      },
+      "featured": true,
+      "files": {
+        "normal": {
+          "path": "v1/sanshin.caf",
+          "sha256": "c3fd9c69dde9c59395ae360694f0249f516a0c85f64285e19f7eb724964605c7",
+          "bytes": 2120896
+        },
+        "crescendo": {
+          "path": "v1/sanshin_crescendo.caf",
+          "sha256": "def5fa2af11c7ef4bf4039030ea5df9e8dd703c83c0594a48650fd30c093c181",
+          "bytes": 2120896
+        }
+      }
+    },
+    {
+      "id": "remote.futurebass",
+      "ja": "フューチャーベースの朝",
+      "en": "Future Bass Morning",
+      "intensity": "strong",
+      "scene": "strong",
+      "access": "premium",
+      "badge": {
+        "ja": "NEW",
+        "en": "NEW"
+      },
+      "files": {
+        "normal": {
+          "path": "v1/futurebass.caf",
+          "sha256": "68b47712f6600e12272cdac97a5a075da4f8900c2222403759875b8002b1f855",
+          "bytes": 2120896
+        },
+        "crescendo": {
+          "path": "v1/futurebass_crescendo.caf",
+          "sha256": "04024bcfe466d5630c4ca2363ee8d6e5fa06531362c3d7afc94aa99be8c9622c",
+          "bytes": 2120896
+        }
+      }
+    },
+    {
+      "id": "remote.touyou",
+      "ja": "東洋の朝",
+      "en": "Eastern Morning",
+      "intensity": "gentle",
+      "scene": "gentle",
+      "access": "premium",
+      "badge": {
+        "ja": "NEW",
+        "en": "NEW"
+      },
+      "files": {
+        "normal": {
+          "path": "v1/touyou.caf",
+          "sha256": "ee6989f51f4eb7db64652e47f3899bdba47ce85d8e5bab7038eae407381eae7f",
+          "bytes": 2120896
+        },
+        "crescendo": {
+          "path": "v1/touyou_crescendo.caf",
+          "sha256": "784bdf84101edc500b6aba46472721ba2283e7e324b89f889362e2ec9435399e",
+          "bytes": 2120896
+        }
+      }
+    },
+    {
+      "id": "remote.fanfare",
+      "ja": "朝のファンファーレ",
+      "en": "Morning Fanfare",
+      "intensity": "strong",
+      "scene": "strong",
+      "access": "premium",
+      "badge": {
+        "ja": "NEW",
+        "en": "NEW"
+      },
+      "files": {
+        "normal": {
+          "path": "v1/fanfare.caf",
+          "sha256": "ffddae7e0e78d15a690d67fae656032ecb342bc38d3070bb57275b112edc4bc2",
+          "bytes": 2120896
+        },
+        "crescendo": {
+          "path": "v1/fanfare_crescendo.caf",
+          "sha256": "e780241161d77b4e6e1f51af4f27b432bc374144ae6edd721262fdc9b8ba94bc",
+          "bytes": 2120896
+        }
+      }
+    },
+    {
+      "id": "remote.asapiano",
+      "ja": "朝のピアノ",
+      "en": "Morning Piano",
+      "intensity": "gentle",
+      "scene": "gentle",
+      "access": "premium",
       "files": {
         "normal": {
           "path": "v1/asapiano.caf",
@@ -34,11 +348,6 @@
       "intensity": "gentle",
       "scene": "gentle",
       "access": "premium",
-      "badge": {
-        "ja": "NEW",
-        "en": "NEW"
-      },
-      "featured": true,
       "files": {
         "normal": {
           "path": "v1/asaharp.caf",
@@ -59,11 +368,6 @@
       "intensity": "balanced",
       "scene": "balanced",
       "access": "free",
-      "badge": {
-        "ja": "NEW",
-        "en": "NEW"
-      },
-      "featured": true,
       "files": {
         "normal": {
           "path": "v1/bossa.caf",
@@ -84,11 +388,6 @@
       "intensity": "strong",
       "scene": "strong",
       "access": "premium",
-      "badge": {
-        "ja": "NEW",
-        "en": "NEW"
-      },
-      "featured": true,
       "files": {
         "normal": {
           "path": "v1/brass.caf",
@@ -109,11 +408,6 @@
       "intensity": "strong",
       "scene": "wa",
       "access": "premium",
-      "badge": {
-        "ja": "NEW",
-        "en": "NEW"
-      },
-      "featured": true,
       "files": {
         "normal": {
           "path": "v1/matsuri.caf",
@@ -194,7 +488,6 @@
       "intensity": "balanced",
       "scene": "balanced",
       "access": "free",
-      "featured": true,
       "files": {
         "normal": {
           "path": "v1/acoustic.caf",
@@ -204,27 +497,6 @@
         "crescendo": {
           "path": "v1/acoustic_crescendo.caf",
           "sha256": "b8af2bc1444f9667549934b9414185a3629eeaefa62c7b418b8b9f84a9e6de57",
-          "bytes": 2120896
-        }
-      }
-    },
-    {
-      "id": "remote.citypop",
-      "ja": "シティポップの朝",
-      "en": "City Pop Morning",
-      "intensity": "balanced",
-      "scene": "balanced",
-      "access": "premium",
-      "featured": true,
-      "files": {
-        "normal": {
-          "path": "v1/citypop.caf",
-          "sha256": "5a910e0808a5ece957e8b3f29fe0aaba496f1c59b59dbb86ad564c4e24af0a20",
-          "bytes": 2120896
-        },
-        "crescendo": {
-          "path": "v1/citypop_crescendo.caf",
-          "sha256": "d02b969422d82078036073df844aa44ebadcc60d3f934a157d2698e7a68fe963",
           "bytes": 2120896
         }
       }
@@ -246,27 +518,6 @@
         "crescendo": {
           "path": "v1/bellmarch_crescendo.caf",
           "sha256": "59b055a87645e33d3910697d102aad4d2b5119d9068222d3abd661b66720e459",
-          "bytes": 2120896
-        }
-      }
-    },
-    {
-      "id": "remote.8bit",
-      "ja": "8ビットの朝",
-      "en": "8-bit Morning",
-      "intensity": "strong",
-      "scene": "strong",
-      "access": "premium",
-      "featured": true,
-      "files": {
-        "normal": {
-          "path": "v1/8bit.caf",
-          "sha256": "5c74c5fe956903d800df30a5c6e1168315aa6fddf89a23d5d1250d1142091fc6",
-          "bytes": 2120896
-        },
-        "crescendo": {
-          "path": "v1/8bit_crescendo.caf",
-          "sha256": "9a8e70e4969211fe0d31fbe2992a13ef550d7c49162fac6c51b8a2b8c23ce09f",
           "bytes": 2120896
         }
       }
@@ -333,6 +584,67 @@
       }
     },
     {
+      "id": "remote.elise",
+      "ja": "エリーゼのために（ベートーヴェン）",
+      "en": "Für Elise (Beethoven)",
+      "intensity": "gentle",
+      "access": "free",
+      "files": {
+        "normal": {
+          "path": "v1/elise.caf",
+          "sha256": "fc4f0e090ba9389d9fefa94e398535180750ff6eb76ca9d6ad728eb19f919f78",
+          "bytes": 2120896
+        },
+        "crescendo": {
+          "path": "v1/elise_crescendo.caf",
+          "sha256": "f585526038cdedfcfde59a11d8ea884b0378bd181d7280911e208e0a99e63153",
+          "bytes": 2120896
+        }
+      }
+    }
+  ],
+  "retired": [
+    {
+      "id": "remote.citypop",
+      "ja": "シティポップの朝",
+      "en": "City Pop Morning",
+      "intensity": "balanced",
+      "scene": "balanced",
+      "access": "premium",
+      "files": {
+        "normal": {
+          "path": "v1/citypop.caf",
+          "sha256": "5a910e0808a5ece957e8b3f29fe0aaba496f1c59b59dbb86ad564c4e24af0a20",
+          "bytes": 2120896
+        },
+        "crescendo": {
+          "path": "v1/citypop_crescendo.caf",
+          "sha256": "d02b969422d82078036073df844aa44ebadcc60d3f934a157d2698e7a68fe963",
+          "bytes": 2120896
+        }
+      }
+    },
+    {
+      "id": "remote.8bit",
+      "ja": "8ビットの朝",
+      "en": "8-bit Morning",
+      "intensity": "strong",
+      "scene": "strong",
+      "access": "premium",
+      "files": {
+        "normal": {
+          "path": "v1/8bit.caf",
+          "sha256": "5c74c5fe956903d800df30a5c6e1168315aa6fddf89a23d5d1250d1142091fc6",
+          "bytes": 2120896
+        },
+        "crescendo": {
+          "path": "v1/8bit_crescendo.caf",
+          "sha256": "9a8e70e4969211fe0d31fbe2992a13ef550d7c49162fac6c51b8a2b8c23ce09f",
+          "bytes": 2120896
+        }
+      }
+    },
+    {
       "id": "remote.menuet",
       "ja": "メヌエット（バッハ）",
       "en": "Minuet in G (Bach)",
@@ -367,25 +679,6 @@
           "path": "v1/mokkin_crescendo.caf",
           "sha256": "78b2a8fd5cfe7b372b942782373413d2ecb39e0628f391a365170b69643121e9",
           "bytes": 566388
-        }
-      }
-    },
-    {
-      "id": "remote.elise",
-      "ja": "エリーゼのために（ベートーヴェン）",
-      "en": "Für Elise (Beethoven)",
-      "intensity": "gentle",
-      "access": "free",
-      "files": {
-        "normal": {
-          "path": "v1/elise.caf",
-          "sha256": "fc4f0e090ba9389d9fefa94e398535180750ff6eb76ca9d6ad728eb19f919f78",
-          "bytes": 2120896
-        },
-        "crescendo": {
-          "path": "v1/elise_crescendo.caf",
-          "sha256": "f585526038cdedfcfde59a11d8ea884b0378bd181d7280911e208e0a99e63153",
-          "bytes": 2120896
         }
       }
     },
